@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+
+
+
+
+
+HTML -
+Used to create Web pages.
+
+
+Developed by WORLD WIDE WEB consortium                         (W3C)
+  
+Term HYPER signifies the navigation from one location to another in a non linear fashion i.e. clicking on the hypertext on a web page takes you to the relevant page on the website or internet, which is not necessarily the next page of the Website. 
+
+
+
+
+JAVASCRIPT 
+Object oriented scripting language.
+
+
+Developed by Netscape.
+
+
+JAVASCRIPT codes run on a browser only; JAVA runs in a virtual machine or browser
+JAVA needs to be compiled while JAVASCRIPT code is interpreted.
+
+
+
+
+
+
+
+
+    
