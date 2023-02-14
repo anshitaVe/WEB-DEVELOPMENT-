@@ -1,0 +1,121 @@
+Table 1.1: New Elements in HTML5
+
+
+******ARTICLE
+Show an independent entry of a Blog or a magazine.
+
+
+******ASIDE
+Shows a note, a tip, a sidebar, a parenthetical mark, or the content other than the main content
+
+
+******AUDIO
+Allows you to embed audio files in a Web page
+
+
+******BDI
+Allows you to specify the non-left-to-right direction for a span of text 
+
+
+******CANVAS
+Provides a canvas on a Web page to draw graphics on it
+
+
+******COMMAND
+Stores a command to perform a task
+
+
+******DATALIST
+Shows a drop-down list
+
+
+******DETAILS
+Shows the details of an item besides its default information
+
+
+******EMBED
+Defines external interactive content or plug-in
+
+
+******FIGCAPTION
+Shows the caption of the FIGURE element
+
+
+******FIGURE
+Shows a group of media elements, VIDEO and AUDIO, along with a caption
+
+
+******FOOTER
+Shows the footer of a section or page
+
+
+******HEADER
+Shows the header of a section or page
+
+
+******HGROUP
+Represents a group of headings in a document
+
+
+******KEYGEN
+Specifies an element that generates a pair of key (private and public keys) for forms, where the private key is stored locally with the submission of a form and the public key is sent to the server
+
+
+******MARK
+Shows highlighted text
+
+
+******MENU
+Shows a menu bar on a Web page
+
+
+******METER
+Displays the measurement of a number in a predefined range
+
+
+******NAV
+Shows a collection of links related to other Web pages
+
+
+******OUTPUT
+Specifies an element that is used to display output
+
+
+******PROGRESS
+Shows the progress of an ongoing process
+
+
+******RP
+Dictates the browsers to show the content when they do not support the RUBY element
+
+
+******RT
+Shows the details of ruby annotations.
+
+
+ ******RUBY
+Shows characters that define ruby annotations
+
+
+******SECTION
+Shows a section of a chapter or a part of a book
+
+
+******SOURCE 
+Represents a media resource
+
+
+******SUMMARY
+Shows the summary of a DETAILS element
+
+******TIME
+Shows date and time in a Web page
+
+
+
+VIDEO
+Allows you to embed videos in a Web page
+
+
+WBR
+Defines a possible line-break that can be inserted in a text.
