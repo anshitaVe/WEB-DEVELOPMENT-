@@ -1,0 +1,18 @@
+ASP.NET - Active Server Pages.NET
+URL - Uniform Resource Locators
+
+Website is a collection of web pages. Website can be viewed with a special type of application --- WEB BROWSER
+
+HTML - allows you to design static web pages, where content can not be changed by a user. 
+
+INTERNET and WEB
+INTERNET is a global system of interconnected computer networks, while WEB is one of the service that runs on the internet.
+
+WEB is a collection of interconnected websites.
+
+WEB 1.0 also called as read only web eg : Hotmail
+
+WEB SERVER is a computer that stores and hosts a website to make it available to its clients with the help of a specific URL links.
+
+
+
