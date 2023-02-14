@@ -1,0 +1,19 @@
+The following code snippet shows an example of using the CANVAS element along with its attributes:
+
+<IDOCTYPE HTML>
+
+   <SCRIPT type="application/x-javascript"> 
+         function displayCanvas() {
+         var mycanvas = 
+          document.getElementById("myCanvas");
+          if (mycanvas.getContext) {
+         var contex = mycanvas.getContext('2D');
+         contex.fillstyle = "rgb(50,0,0)" ;
+         contex.fillRect = (0, 0, 150, 75);
+           }
+   </SCRIPT>
+
+<BODY onload="displayCanvas();">
+
+<CANVAS id="myCanvas" width="300" height="200"> Your browser does not support the CANVAS element.
+</CANVAS>
